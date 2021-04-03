@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Priyabrat521t&color=47ccb3)
 
-Hello there and Welcome to my GitHub Profile!, My name is Priyabrat Dalbehera 😄
+### Hello there and Welcome to my GitHub Profile!, My name is Priyabrat Dalbehera 😄
 
--   ## I'm a Frontend Developer 💻, a Programmer💻, an Engineer 😅
+## I'm a Frontend Developer 💻, a Programmer💻, an Engineer 😅
 - 👋 Hi, I’m @Priyabrat521
 - 👀 I’m interested in coding
 - 💞️ I’m looking for help with Open Source Contribution
