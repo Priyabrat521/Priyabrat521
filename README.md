@@ -10,21 +10,17 @@
 - 📫 How to reach me  [LinkedIn](https://www.linkedin.com/in/priyabrat-dalbehera-p521/)
 
  
-### Tech:
 
-<!-- ##### Front-End 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/priyabrat521" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/priyabrat521" height="30" width="40" /></a>
+<a href="https://twitter.com/@priyabrat521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyabrat521" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyabrat-dalbehera-p521/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyabrat-dalbehera-p521/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/priyabrat.dalbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/priyabrat.dalbehera" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/priyabrat_521/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/priyabrat_521/" height="30" width="40" /></a>
+</p>
 
-##### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-<!-- ![C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=C) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-<!---
-Priyabrat521/Priyabrat521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyabrat521&show_icons=true&locale=en&layout=compact" alt="priyabrat521" /></p>
