@@ -9,12 +9,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me  [LinkedIn](https://www.linkedin.com/in/priyabrat-dalbehera-p521/)
 
-- ## GitHub's Stats
-
-<img align="left" alt="Priyabrat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Priyabrat521&theme=dark&show_icons=true&hide_border=true" width="350"/>
-
-<a href="https://github.com/avinashbest/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyabrat521&layout=compact&theme=dark" height="138"/></a>
-
+ 
 ### Tech:
 
 <!-- ##### Front-End 
