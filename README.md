@@ -7,7 +7,7 @@
 - 👀 I’m interested in coding
 - 💞️ I’m looking for help with Open Source Contribution
 - 😄 Pronouns: He/Him
-- - 📫 How to reach me **ipriyabrat689@gmail.com**
+- 📫 How to reach me **ipriyabrat689@gmail.com**
 
  
 
