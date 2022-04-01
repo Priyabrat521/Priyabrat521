@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/priyabrat521" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/priyabrat521" height="30" width="40" /></a>
+ 
 <a href="https://twitter.com/@priyabrat521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@priyabrat521" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyabrat-dalbehera-p521/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyabrat-dalbehera-p521/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/priyabrat.dalbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/priyabrat.dalbehera" height="30" width="40" /></a>
